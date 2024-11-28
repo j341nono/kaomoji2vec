@@ -1,7 +1,7 @@
 # kaomoji2vec
 
 ## 目的
-顔文字は以下の9個の感情に分類できると示されている。[1](file:///C:/ehime/competition/jp_analy/article/E6-2.pdf)
+顔文字は以下の9個の感情に分類できると示されている。[1](https://www.jstage.jst.go.jp/article/wii/4/0/4_27/_article/-char/ja/)
 
 joy, like, calm, sorrow, dislike, fear, excitement, surprise, shame
 
@@ -30,7 +30,7 @@ https://github.com/ekohrt/emoticon_kaomoji_dataset/tree/main
 
 ・word2vec pretrained embeddings
 
-word2vec pretrained embeddings https://wikipedia2vec.github.io/wikipedia2vec/pretrained/
+https://wikipedia2vec.github.io/wikipedia2vec/pretrained/
 
 
 
