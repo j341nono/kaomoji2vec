@@ -1,7 +1,7 @@
 # kaomoji2vec
 
 ## 目的
-顔文字は以下の9個の感情に分類できると示されている。[1](https://www.jstage.jst.go.jp/article/wii/4/0/4_27/_article/-char/ja/)
+顔文字は以下の9個の感情に分類できると示されている。[[1]](https://www.jstage.jst.go.jp/article/wii/4/0/4_27/_article/-char/ja/)
 
 joy, like, calm, sorrow, dislike, fear, excitement, surprise, shame
 
