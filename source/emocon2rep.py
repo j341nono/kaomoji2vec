@@ -49,7 +49,8 @@ model = KeyedVectors.load_word2vec_format(vec_path, binary=False)
 
 # [1] file:///C:/ehime/competition/jp_analy/article/E6-2.pdf
 # excitement, surprise, shameは0, 顔文字としての影響を受けにくい
-representatives = ['joy','like','calm','sorrow','dislike','fear','excitement','surprise','shame
+representatives = ['joy','like','calm','sorrow','dislike','fear','excitement','surprise','shame']
+
 # shame判定ばっかりになってしまう --> angerが欲しい & neutral の追加
 representatives = ['joy','like','calm','sorrow','dislike','fear','excitement','surprise','anger', 'neutral']
 
